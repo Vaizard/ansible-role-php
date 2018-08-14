@@ -3,6 +3,7 @@ __php_packages:
   - php
   - php-cli
   - php-common
+  - php-ctype
   - php-devel
   - php-fpm
   - php-gd
